@@ -1,1 +1,1 @@
-# admin-dashboard
+In this project, I consolidate intermediate HTML and CSS skills--CSS grid in particular--by creating an administrative-style dashboard.
